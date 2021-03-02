@@ -1,0 +1,10 @@
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\obj\Debug\ClientecSharp.csprojAssemblyReference.cache
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\obj\Debug\ClientecSharp.Form1.resources
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\obj\Debug\ClientecSharp.Properties.Resources.resources
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\obj\Debug\ClientecSharp.csproj.GenerateResource.cache
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\obj\Debug\ClientecSharp.csproj.CoreCompileInputs.cache
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\bin\Debug\ClientecSharp.exe.config
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\bin\Debug\ClientecSharp.exe
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\bin\Debug\ClientecSharp.pdb
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\obj\Debug\ClientecSharp.exe
+C:\Users\Luis Vizcarra\source\repos\SolutionSenamhi\ClientecSharp\obj\Debug\ClientecSharp.pdb
